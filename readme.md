@@ -7,8 +7,8 @@ Este projeto tem como objetivo prever atrasos de voos utilizando técnicas de ap
 - Bibliotecas: `pandas`, `numpy`, `matplotlib`, `seaborn`, `pickle`, `sklearn`, `yellowbrick`
 
 ## Instalação
-1- Clone o repositório.
-2- Instale as bibliotecas necessárias:
+1. Clone o repositório.
+2. Instale as bibliotecas necessárias:
 ```bash 
 pip install pandas numpy matplotlib seaborn pickle-mixin scikit-learn yellowbrick
 ```
